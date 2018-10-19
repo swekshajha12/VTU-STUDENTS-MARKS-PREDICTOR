@@ -5,6 +5,7 @@ function [theta] = normalEqn(X, y)
 
 %theta = zeros(size(X, 2), 1);
 theta=(pinv(X))*y;
+%this code works
 % ====================== YOUR CODE HERE ======================
 % Instructions: Complete the code to compute the closed form solution
 %               to linear regression and put the result in theta.
