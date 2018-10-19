@@ -6,7 +6,7 @@
 %
 %
 % 
-fprintf('\tIn this part, we will implement linear regression to\n');
+fprintf('\tIn this part, we will implement Linear Regression to\n');
 fprintf('\tpredict the SGPA of students in consequent semesters.\n');   
 fprintf('\tThe file')
 fprintf('ex11.txt\n')
