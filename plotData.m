@@ -8,7 +8,7 @@ plot(x, y, 'rx', 'MarkerSize', 10);       % Plot the data
 ylabel('MARKS IN THIRD SEM');             % Set the y
 
 
-xlabel('MARKS IN FIRST AND SEC SEM');
+xlabel('MARKS IN FIRST AND SECTION SEM');
 % ====================== YOUR CODE HERE ======================
 % Instructions: Plot the training data into a figure using the 
 %               "figure" and "plot" commands. Set the axes labels using
